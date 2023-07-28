@@ -25,15 +25,10 @@ The main objective of this project is to conduct a comprehensive analysis of cri
 To explore the Los Angeles Crime Data Analysis project, follow these steps:
 
 1. **Data Download**: Download the dataset from the provided Kaggle link: [Los Angeles Crime Data 2020-2023](https://www.kaggle.com/datasets/venkatsairo4899/los-angeles-crime-data-2020-2023).
-
 2. **Data Cleaning**: Execute the Microsoft SQL scripts provided in the `Data Cleaning - Los Angeles Crime Dataset.sql` file to clean and preprocess the data.
-
 3. **Data Visualization**: Open the Tableau workbooks in the `Los Angeles Crime 2020-2023.twbx` file using Tableau Desktop. The workbooks contain pre-built visualizations and interactive dashboards for data exploration.
-
 4. **Explore Insights**: Use Tableau to interact with the visualizations, analyze crime trends, distribution, victim demographics, and time of day patterns. Adjust filters, drill down into data, and draw conclusions from the insights provided.
-
 5. **Customization**: Feel free to customize the Tableau visualizations and dashboards to suit your specific analysis requirements. Add additional charts, filters, or calculations as needed.
-
 6. **Sharing**: If desired, you can share the Tableau dashboards with others using Tableau Server or Tableau Public for wider access and collaboration.
 
 By following these instructions, you can gain valuable insights into the Los Angeles crime data and contribute to improving public safety efforts. Happy analyzing!
