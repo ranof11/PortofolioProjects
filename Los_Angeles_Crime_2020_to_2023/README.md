@@ -4,7 +4,7 @@
 
 Welcome to the Los Angeles Crime Data Analysis project! This analysis focuses on exploring and understanding crime incidents reported in Los Angeles between 2020 and 2023. The project utilizes Microsoft SQL for data cleaning and preprocessing and Tableau for data visualization. By examining crime trends, distributions, and victim demographics, the goal is to extract valuable insights to aid law enforcement agencies and policymakers in making informed decisions and implementing effective crime prevention strategies.
 
-## Dataset Description
+## Dataset
 
 The dataset used in this project is sourced from Kaggle and contains crime incident records reported by the Los Angeles Police Department. It includes information such as crime codes, descriptions, occurrence dates, locations, victim demographics, and more. Please be aware that the data is sourced from original crime reports, which may include some inaccuracies and missing information.
 
