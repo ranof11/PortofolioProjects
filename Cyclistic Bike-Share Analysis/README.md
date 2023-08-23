@@ -14,7 +14,7 @@ The data preparation and cleaning process are performed using Google BigQuery. T
 ## Analysis and Visualization
 After data preparation, the analysis and visualization are conducted using Tableau. The analysis focuses on various aspects of the bike-sharing data, including ride frequency trends by month, hourly ride usage patterns, total rides by rider type, and average ride durations. The insights gained from the analysis are visualized using Tableau to provide interactive and informative dashboards.
 
-[Tableau Public Dashboard](https://public.tableau.com/app/profile/jhermienpaul/viz/CyclisticBike-ShareAnalysisHowDoesABike-ShareNavigateSpeedySuccess/Dashboard)
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/rajesh.triadi.noftarizal/viz/CyclisticBike-ShareAnalysisHowDoesABike-ShareNavigateSpeedySuccess_16927217182920/Dashboard1)
 
 The dashboard provides a user-friendly way to interact with the insights gained from the analysis.
 
