@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the World Health Organization (WHO) suicide statistics dataset from 1979 to 2003. The dataset provides insights into suicide rates based on age, gender, and year. This README provides an overview of the project, its goals, methodology, key findings, and data source.
+This project analyzes the World Health Organization (WHO) suicide statistics dataset from 1979 to 2016. The dataset provides insights into suicide rates based on age, gender, and year. This README provides an overview of the project, its goals, methodology, key findings, and data source.
 
 ## Project Description
 
@@ -10,7 +10,7 @@ This project aims to explore the WHO suicide statistics dataset and gain insight
 
 ## Dataset
 
-The dataset used for this analysis is provided by the World Health Organization (WHO) and includes suicide statistics from 1979 to 2003. It contains information on suicide rates, age groups, genders, and years. You can access the dataset from [Kaggle](https://www.kaggle.com/datasets/szamil/who-suicide-statistics).
+The dataset used for this analysis is provided by the World Health Organization (WHO) and includes suicide statistics from 1979 to 2016. It contains information on suicide rates, age groups, genders, and years. You can access the dataset from [Kaggle](https://www.kaggle.com/datasets/szamil/who-suicide-statistics).
 
 ## Methodology
 
